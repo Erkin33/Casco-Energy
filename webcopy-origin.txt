@@ -1,0 +1,504 @@
+Uri: https://cascobayenergy.com/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\index.htm
+Content Type: text/html
+
+Uri: https://cascobayenergy.com/about/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\about\index.htm
+Content Type: text/html
+
+Uri: https://cascobayenergy.com/comments/feed/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://cascobayenergy.com/contact-us/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://cascobayenergy.com/feed/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://cascobayenergy.com/projects/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\projects\index.htm
+Content Type: text/html
+
+Uri: https://cascobayenergy.com/services/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\services\index.htm
+Content Type: text/html
+
+Uri: https://cascobayenergy.com/wp-content/plugins/astra-sites/inc/lib/onboarding/assets/dist/template-preview/main.js?ver=06758d4d807d9d22c6ea
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\astra-sites\inc\lib\onboarding\assets\dist\template-preview\main.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.2.5
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\cookie-law-info\lite\frontend\js\script.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.3
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.3
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.37
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.37
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/image-hover-effects-addon-for-elementor/assets/style.min.css?ver=1.4.4
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\image-hover-effects-addon-for-elementor\assets\style.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-base.min.css?ver=1.8.9.6
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\wpforms-lite\assets\css\frontend\classic\wpforms-base.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.8.9.6
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.9.6
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.8.9.6
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\wpforms-lite\assets\js\share\utils.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.20.0
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.6.12
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.6.12
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2021/06/background_03.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2021\06\background_03.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2021/06/logo-google.png
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2021\06\logo-google.png
+Content Type: image/png
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2021/06/shape-3.png
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2021\06\shape-3.png
+Content Type: image/png
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2021/06/sketch-1.png
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2021\06\sketch-1.png
+Content Type: image/png
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2021/06/yelp.png
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2021\06\yelp.png
+Content Type: image/png
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/3ccc31df-372e-4018-976e-1c679b68a60e.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\3ccc31df-372e-4018-976e-1c679b68a60e.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/5fnmwej4taa.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\5fnmwej4taa.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/7e2pe9wjl9m.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\7e2pe9wjl9m.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/aqozmgct6si.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\aqozmgct6si.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/dr3fb6dbec0.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\dr3fb6dbec0.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/fm5_vcua-bc.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\fm5_vcua-bc.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/fpcy-adfhug.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\fpcy-adfhug.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/fyuz9fj32we.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\fyuz9fj32we.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/gxihwhkidvs.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\gxihwhkidvs.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/hcha-uhkig8.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\hcha-uhkig8.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/ikjaj_oq-ie.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\ikjaj_oq-ie.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/ilpf2euppue.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\ilpf2euppue.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/iwy-27cerca.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\iwy-27cerca.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/kdtyfnufac.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\kdtyfnufac.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/magdwoazaro.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\magdwoazaro.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/ngdhrwax0j8.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\ngdhrwax0j8.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/ponbhdyofom.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\ponbhdyofom.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/sfjs-fglvu4.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\sfjs-fglvu4.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/umjz4m-icow.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\umjz4m-icow.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/wmap3tl80ww.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\wmap3tl80ww.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/yetqklnhsui.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\yetqklnhsui.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/04/zbhu08hdzhy.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\04\zbhu08hdzhy.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/cropped-cropped-istockphoto-1339315875-612x612-1-180x180.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\cropped-cropped-istockphoto-1339315875-612x612-1-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/cropped-cropped-istockphoto-1339315875-612x612-1-192x192.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\cropped-cropped-istockphoto-1339315875-612x612-1-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/cropped-cropped-istockphoto-1339315875-612x612-1-32x32.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\cropped-cropped-istockphoto-1339315875-612x612-1-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/cropped-istockphoto-1339315875-612x612-1-120x44.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\cropped-istockphoto-1339315875-612x612-1-120x44.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/cropped-istockphoto-1339315875-612x612-1-300x110.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\cropped-istockphoto-1339315875-612x612-1-300x110.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/cropped-istockphoto-1339315875-612x612-1.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\cropped-istockphoto-1339315875-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/gxsrl8b_zqe-225x300.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\gxsrl8b_zqe-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/gxsrl8b_zqe-768x1024.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\gxsrl8b_zqe-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/gxsrl8b_zqe.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\gxsrl8b_zqe.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/solar-panel-solar-panels-8499901-1024x683.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\solar-panel-solar-panels-8499901-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/solar-panel-solar-panels-8499901-300x200.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\solar-panel-solar-panels-8499901-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/solar-panel-solar-panels-8499901-768x512.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\solar-panel-solar-panels-8499901-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/2024/05/solar-panel-solar-panels-8499901.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\2024\05\solar-panel-solar-panels-8499901.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-content/uploads/elementor/css/post-17.css?ver=1715780447
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\elementor\css\post-17.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/uploads/elementor/css/post-635.css?ver=1715780314
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\elementor\css\post-635.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/uploads/elementor/css/post-636.css?ver=1713968746
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\elementor\css\post-636.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/uploads/elementor/css/post-637.css?ver=1715721242
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\elementor\css\post-637.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/uploads/elementor/css/post-939.css?ver=1715721642
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\elementor\css\post-939.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/uploads/elementor/css/post-940.css?ver=1715722087
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\elementor\css\post-940.css
+Content Type: text/css
+
+Uri: https://cascobayenergy.com/wp-content/uploads/elementor/thumbs/solar-panel-solar-panels-8499901-qo4gwv8jd9zwsnaftwjothkddgbqt0z24am5tf59r4.jpg
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-content\uploads\elementor\thumbs\solar-panel-solar-panels-8499901-qo4gwv8jd9zwsnaftwjothkddgbqt0z24am5tf59r4.jpg
+Content Type: image/jpeg
+
+Uri: https://cascobayenergy.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-includes/js/wp-util.min.js?ver=6.6.1
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://cascobayenergy.com/wp-json/
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2F
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fprojects%2F
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fprojects%2F&format=xml
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fservices%2F
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcascobayenergy.com%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://cascobayenergy.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/wp/v2/pages/635
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\wp\v2\pages\635
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/wp/v2/pages/637
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\wp\v2\pages\637
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/wp/v2/pages/939
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\wp\v2\pages\939
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/wp-json/wp/v2/pages/940
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\wp-json\wp\v2\pages\940
+Content Type: application/json
+
+Uri: https://cascobayenergy.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Karla:400|Rubik:700%2C500&display=fallback&ver=4.6.12
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\cascobayenergy.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+Content Type: font/ttf
+
